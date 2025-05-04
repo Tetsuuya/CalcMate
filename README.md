@@ -40,7 +40,8 @@ Build/
 
 2. Install the required packages:
    ```
-   pip install pyglet sympy scipy numpy
+   pip install -r requirements.txt
+   
    ```
 
 3. Run
