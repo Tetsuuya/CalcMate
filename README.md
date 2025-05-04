@@ -5,14 +5,15 @@
 
 ## Project Structure
 
-calculator/
+```
+Build/
 ├── assets/
-│ └── frame0/
-│ └── (image assets)
+│   └── frame0/
+│       └── (image assets)
 ├── gui.py
-├── calculation.py
+├── calculations.py
 └── README.md
-
+```
 ## Features
 
 - Input mathematical functions using Python syntax (e.g., `x**3-3*x`)
