@@ -33,7 +33,7 @@ calculator/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/calculator.git
+   https://github.com/Tetsuuya/CalcMate.git
    cd calculator
    ```
 
