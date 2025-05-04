@@ -50,5 +50,5 @@ Build/
 
 1. Enter a mathematical function in the input field using Python syntax (e.g., `x**3-3*x`)
 2. Enter the lower and upper limits for integration
-3. Click the "Calculate" button to compute the integral
+3. Click the "Solve" button to compute the integral
 4. The result will be displayed in the "Result for numerical integration" field
